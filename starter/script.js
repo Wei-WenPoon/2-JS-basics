@@ -118,7 +118,7 @@ var whatDoYouDo = function (job, firstName) {
 console.log(whatDoYouDo('teacher', 'John'));
 console.log(whatDoYouDo('designer', 'Jane'));
 console.log(whatDoYouDo('reitred', 'Mark'));
-
+/*
 
 /*------------------------------Arrays-----------------------------*/
 /*
